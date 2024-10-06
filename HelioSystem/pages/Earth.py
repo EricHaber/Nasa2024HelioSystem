@@ -5,7 +5,7 @@ import time
 from openai import OpenAI
 import lib.pyvista as pv
 from lib.pyvista import examples
-from lib.stpyvista import stpyvista
+from stpyvista import stpyvista
 
 
 
