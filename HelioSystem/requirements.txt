@@ -1,0 +1,40 @@
+# Core libraries
+numpy
+matplotlib
+streamlit
+openai
+ephem
+requests
+panel>=1.4.1
+
+# VTK and related libraries
+pillow
+imageio
+pooch
+scooby
+cmocean
+colorcet
+meshio
+pyvista
+stpyvista>=0.1.0
+trame
+trame-client
+trame-components
+trame-server
+trame-vtk
+trame-vuetify
+vtk
+
+# Visualization libraries
+bokeh
+param
+geovista
+colorcet
+requests
+cmocean>=4.0.3
+trame
+trame-client
+trame-components
+trame-server
+trame-vtk
+trame-vuetify
