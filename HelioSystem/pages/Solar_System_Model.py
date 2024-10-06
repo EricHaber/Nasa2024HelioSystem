@@ -1,11 +1,11 @@
-import streamlit as st
+import lib.streamlit as st
 import numpy as np
 import random
 import time
 from openai import OpenAI
-import pyvista as pv
-from pyvista import examples
-import stpyvista
+import lib.pyvista as pv
+from lib.pyvista import examples
+import lib.stpyvista
 import ephem
 import numpy as np
 import pyvista as pv
