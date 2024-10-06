@@ -5,10 +5,10 @@ import time
 from openai import OpenAI
 import lib.pyvista as pv
 from lib.pyvista import examples
-import lib.stpyvista
+import stpyvista
 import ephem
 import numpy as np
-import pyvista as pv
+import lib.pyvista as pv
 from datetime import datetime, timedelta
 import panel as pn
 pyvista.global_theme.use_panel = True
