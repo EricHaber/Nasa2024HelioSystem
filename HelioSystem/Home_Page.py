@@ -8,7 +8,7 @@ with col1:
     st.write(' ')
 
 with col2:
-    st.image("HelioSystem/images/heliosystemwide.png") #, width=1000
+    st.image("images/heliosystemwide.png") #, width=1000
 
 with col3:
     st.write(' ')
